@@ -1,0 +1,121 @@
+{
+    "transactions": [
+        {
+            "amount": 6000.0,
+            "category": "Salary",
+            "type": "income",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 20000.0,
+            "category": "Freelance",
+            "type": "income",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 2000.0,
+            "category": "Transport",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 4000.0,
+            "category": "food",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 5000.0,
+            "category": "cloth",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 5000.0,
+            "category": "rent",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 1700.0,
+            "category": "internet",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 8000.0,
+            "category": "food",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 700.0,
+            "category": "ms",
+            "type": "expense",
+            "date": "2025-03-28"
+        },
+        {
+            "amount": 1000.0,
+            "category": "freelance",
+            "type": "income",
+            "date": "2025-04-08"
+        },
+        {
+            "amount": 2000.0,
+            "category": "food",
+            "type": "expense",
+            "date": "2025-04-08"
+        },
+        {
+            "amount": 20000.0,
+            "category": "salary",
+            "type": "income",
+            "date": "2025-04-10"
+        },
+        {
+            "amount": 5000.0,
+            "category": "rent",
+            "type": "expense",
+            "date": "2025-04-10"
+        }
+    ],
+    "budgets": {
+        "food": 410000.0
+    },
+    "recurring": [
+        {
+            "amount": 5000.0,
+            "category": "rent",
+            "type": "expense",
+            "interval": 30,
+            "last_applied": "2025-03-28",
+            "description": ""
+        },
+        {
+            "amount": 1700.0,
+            "category": "Internet",
+            "type": "expense",
+            "interval": 30,
+            "last_applied": "2025-03-28",
+            "description": ""
+        },
+        {
+            "amount": 5000.0,
+            "category": "rent",
+            "type": "expense",
+            "interval": 30,
+            "last_applied": "2025-04-10"
+        }
+    ],
+    "notifications": [
+        {
+            "type": "budget_alert",
+            "category": "food",
+            "amount": 8000.0,
+            "limit": 6000.0,
+            "spent": 12000.0,
+            "date": "2025-03-28 14:26",
+            "message": "Budget exceeded for Food! ($12000.00 of $6000.00)"
+        }
+    ]
+}
