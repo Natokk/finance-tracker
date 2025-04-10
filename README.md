@@ -2,7 +2,7 @@ Finance Tracker Pro** 💰📊
 
 A personal finance tracking application with GUI built with Python and Tkinter.
 
-![Finance Tracker Screenshot](screenshot.png) *(Add a screenshot later)*
+
 
 ## **Features** ✨
 - Track income and expenses with detailed records
